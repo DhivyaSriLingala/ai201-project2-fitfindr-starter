@@ -183,15 +183,3 @@ demonstrable during API outages.
    workflow. It produced a custom Gradio layout. I revised the result rendering
    to use semantic HTML cards, added a visible retry note, strengthened mobile
    behavior, and avoided exposing raw session dictionaries to users.
-
-## Demo Walkthrough
-
-For a 3-5 minute submission video:
-
-1. Run `"vintage graphic tee under $30, size M"` with the sample wardrobe.
-2. Narrate search, selected-item state, wardrobe-aware styling, and captioning.
-3. Point out that the listing data flows into the outfit and fit card without
-   re-entry.
-4. Run `"designer ballgown size XXS under $5"`.
-5. Show the retry in the planner behavior and the graceful final message; note
-   that the other two panels stay empty because their tools were not called.
